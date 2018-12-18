@@ -3,6 +3,7 @@ This is an exercise in SQL Server scripting, queries, functions, stored procedur
 
 This project is an exercise in creating a real business requirement of:
 
+
 a.       SQL script(s) that
 
 a. Creates a PersonLoading table with an XML or JSON column
@@ -17,5 +18,7 @@ d. Create a scaler function that returns data (columns and rows) from the Person
 e. Using the new function create a stored procedure that inserts the records into the Person table
 
 f.  Execute the new stored procedure once
+
+
 
 I used Microsoft SQL Server for a local test server, T-SQL for the code language, and MS Visual Studio for testing
